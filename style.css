@@ -1,0 +1,19 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.header{
+    text-align: center;
+}
+
+i{
+    padding: 10px;
+}
+
+footer{
+    text-align: center;
+}
